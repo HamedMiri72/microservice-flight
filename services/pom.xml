@@ -19,7 +19,7 @@
     <description>Aggregator for Business services</description>
 
     <modules>
-
+        <module>location-service</module>
     </modules>
 
 </project>
