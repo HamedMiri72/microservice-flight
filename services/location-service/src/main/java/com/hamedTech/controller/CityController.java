@@ -1,4 +1,4 @@
-package com.hamedTech;
+package com.hamedTech.controller;
 
 
 import com.hamedTech.payload.request.CityRequest;
